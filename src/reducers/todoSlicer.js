@@ -5,7 +5,7 @@ export const todoSlicer = createSlice({
   initialState: {
     todoList: [
       { id: 1, content: "Hit the gym" },
-      { id: 2, content: "Meet George" },
+      { id: 2, content: "Wash the car" },
     ],
   },
   reducers: {
